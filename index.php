@@ -4,15 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Toko sederhana</title>
-  <rel="stylesheet" href="combine.css">
+     <link rel="stylesheet" href="combine.css">
 </head>
 <body><center>    
     <label><h4>Toko Bumi melayang</h4></label>
-<br>
-    <div id="content-img">
-    <div class="img" >
-    <img src="buah.jpg    ">
-</div>
+    <img src="buah.jpg">
     <form action="#" method="get"><br>
      <table border="2">
       <tr>
